@@ -1,0 +1,24 @@
+{
+    "error": false,
+    "message": "",
+    "data": {
+        "actual_prs_graph_data": [
+            {
+                "date": "2020-04-01",
+                "value": 0.0
+            },
+            {
+                "date": "2020-04-09",
+                "value": 0.0
+            },
+            {
+                "date": "2020-04-18",
+                "value": 0.0
+            },
+            {
+                "date": "2020-04-27",
+                "value": 0.0
+            }
+        ]
+    }
+}
